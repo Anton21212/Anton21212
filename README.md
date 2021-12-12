@@ -8,6 +8,7 @@ I working with such languages and  technologies as:
 • Django
   
 • SQL
+
 In nowadays it's all what i know!!!
 
 
