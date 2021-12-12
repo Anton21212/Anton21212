@@ -1,5 +1,6 @@
 ### Hi, I'm Anton 👋
-I study in It-academy
+I study in It-academy.
+
 I working with such languages and  technologies as:
 
 • Python  
