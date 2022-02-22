@@ -9,6 +9,12 @@ I working with such languages and  technologies as:
   
 • SQL
 
+• PostgreSQL
+
+• HTML
+
+• CSS
+
 In nowadays it's all what i know!!!
 
 
